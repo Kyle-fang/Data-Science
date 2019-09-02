@@ -1,3 +1,8 @@
 # Python-Data-Science
-## &emsp;数据科学家被称为“21世纪最性感的职业”
-![文氏图]('http://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=3845483837,3850301829&os=2034536946,2700308449&simid=0,0&pn=22&rn=1&di=23540&ln=1002&fr=&fmq=1567392728277_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20171025%2Fccee0d6765fc4e42a4989869f82f4b32.png&rpstart=0&rpnum=0&adpicid=0&force=undefined')
+## &emsp;数据科学家被称为“21世纪最性感的职业
+![venn]('http://img4.imgtn.bdimg.com/it/u=3845483837,3850301829&fm=26&gp=0.jpg')
+## 数学知识对数据科学至关重要
+   - 概率
+   - 统计
+   - 线性代数<br/>
+
